@@ -270,6 +270,7 @@ hr.soften {
 .marketing p {
   font-size: 16px;
   line-height: 1.5;
+  text-align: justify;
 }
 .marketing .marketing-byline {
   margin-bottom: 40px;
@@ -277,11 +278,16 @@ hr.soften {
   font-weight: 300;
   line-height: 25px;
   color: #999;
+  text-align: center;
 }
 .marketing img {
   display: block;
   margin: 0 auto 30px;
 }
+
+p.marketing-contact {
+  text-align: center;    
+} 
 
 
 
